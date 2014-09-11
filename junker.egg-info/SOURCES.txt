@@ -1,0 +1,7 @@
+setup.py
+junker/1.py
+junker/__init__.py
+junker.egg-info/PKG-INFO
+junker.egg-info/SOURCES.txt
+junker.egg-info/dependency_links.txt
+junker.egg-info/top_level.txt
