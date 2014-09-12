@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(name='junker',
-    version = "12.9.9",
+    version = "12.9.10",
       url="https://pkgadmin:pypize@packages.zeomega.org/",
       author='Integration Team',
       author_email='Jivainterface@zeomega.com',
